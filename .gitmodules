@@ -1,0 +1,3 @@
+[submodule "asserption"]
+	path = lib/asserption
+	url = git@github.com:mistersourcerer/asserption.git
